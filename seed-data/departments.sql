@@ -1,0 +1,1 @@
+-- Seed: IT, HR, Finance departments

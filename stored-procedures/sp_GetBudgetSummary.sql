@@ -1,0 +1,2 @@
+-- Example Stored Procedure
+-- CREATE OR ALTER PROCEDURE sp_GetBudgetSummary AS BEGIN SELECT 1 END;
